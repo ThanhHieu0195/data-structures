@@ -26,13 +26,12 @@ The material presented here is the same as the corresponding material presented 
 ## Course Syllabus
 - Database design: UML, relational design principles based on dependencies and normal forms
 - Database management systems 
-- Relational model
-- Relational algebra
-- SQL. 
+- Relational model, algebra
+- SQL 
 - XML, DTDs, XML Schema
 - JSON, JSON schema, JAQL (A JSON Query Language)
-- Query and transformation languages XPath, XQuery, and XSLT. 
+- Query and transformation languages XPath, XQuery, and XSLT 
 - Additional key topics: indexes, views, transactions, authorization, integrity constraints, triggers
 - On-line analytical processing (OLAP) 
 - Application-building perspective
-- "NoSQL" systems.
+- "NoSQL" databases and systems
